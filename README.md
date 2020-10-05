@@ -1,3 +1,4 @@
 # Dark_Domain
 good game
-gordon is big gay
+!(gordon is big gay)
+fuck you zack
