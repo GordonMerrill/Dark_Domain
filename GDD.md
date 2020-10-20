@@ -44,7 +44,7 @@ Gordon and Zack
     
 3.2.6 the economy would be the souls you harvest from enemies as well as the resources that you collect from the nodes across the map.
     
-3.2.7 simple Ui. (will have a better idea at a later date.
+3.2.7 simple Ui. (will have a better idea at a later date.)
 		
 3.3 not really any options that affect gameplay
 	
