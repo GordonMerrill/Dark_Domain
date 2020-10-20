@@ -14,7 +14,7 @@ Gordon and Zack
 		 1. you just survive until you are powerful enough to conquer the world or die before you can.
 		 1. No puzzles so far.
 		 1. the objective of the game is expanding your domain and survive until you have built up enough power to conquer the world.
-      1. the game flows nice and smooth between the waves. After every wave there is a base building phase before the next one comes. You can slowly expand your domain through sacrificing mob drops to all seeing towers.
+                 1. the game flows nice and smooth between the waves. After every wave there is a base building phase before the next one comes. You can slowly expand your domain through sacrificing mob drops to all seeing towers.
    1. Mechanics
 	   1. Knockback physics and weight
 		 1. there is varied movement options from dashing/walking to short range blinks.
